@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test it
 test2
 =======
 >>>>>>> parent of 2557f0d (Update test1.txt)
+=======
+test it
+>>>>>>> parent of bc0ce98 (Update test1.txt)

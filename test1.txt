@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 test it
 test2
+=======
+>>>>>>> parent of 2557f0d (Update test1.txt)
